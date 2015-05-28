@@ -3,12 +3,12 @@
 	
     "colors": {
         "chat": {
-			"ambassador": "#89BE6C",
-            "bouncer": "#AC76FF",
-            "cohost": "#AC76FF",
-            "residentdj": "#AC76FF",
-            "host": "#AC76FF",
-            "manager": "#AC76FF"
+			"ambassador": "#8000FF",
+            "bouncer": "#B3DF00",
+            "cohost": "#DF5600",
+            "residentdj": "#00DF99",
+            "host": "#F60035",
+            "manager": "#6400DF"
         }
     },
 
@@ -100,7 +100,7 @@
         }
     },
    "images": {
-        "background": "http://e-nanigans.com/christmastownBG.gif",
+        "background": "http://puu.sh/i46kP/02ff854a96.jpg",
         "icons": {
         "residentdj": "http://i.imgur.com/5dFaFQG.png"
         },
