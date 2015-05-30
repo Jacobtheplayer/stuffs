@@ -101,6 +101,8 @@
     },
    "images": {
         "background": "http://puu.sh/i46kP/02ff854a96.jpg"
+         "icons": {
+        },
         "playback": "http://i.imgur.com/8xFgQmU.png"
 },
     "rules": {
