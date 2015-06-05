@@ -3,7 +3,7 @@
 	
     "colors": {
         "chat": {
-			"ambassador": "#8000FF",
+	    "ambassador": "#8000FF",
             "bouncer": "#B3DF00",
             "cohost": "#DF5600",
             "residentdj": "#00DF99",
@@ -101,8 +101,7 @@
     },
    "images": {
         "background": "http://puu.sh/i46kP/02ff854a96.jpg"
-         "icons":
-        "playback": "http://i.imgur.com/8xFgQmU.png"
+   	  },
 },
     "rules": {
         "allowAutorespond": "true",
